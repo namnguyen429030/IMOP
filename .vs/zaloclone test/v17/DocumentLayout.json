@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\C#\\test\\zaloclone test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|c:\\code\\c#\\test\\zaloclone test\\zaloclone test\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|solutionrelative:zaloclone test\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|c:\\code\\c#\\test\\zaloclone test\\zaloclone test\\pages\\sidebar-search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|solutionrelative:zaloclone test\\pages\\sidebar-search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|c:\\code\\c#\\test\\zaloclone test\\zaloclone test\\pages\\sidebar-contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|solutionrelative:zaloclone test\\pages\\sidebar-contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|c:\\code\\c#\\test\\zaloclone test\\zaloclone test\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|solutionrelative:zaloclone test\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|c:\\code\\c#\\test\\zaloclone test\\zaloclone test\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|solutionrelative:zaloclone test\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|c:\\code\\c#\\test\\zaloclone test\\zaloclone test\\pages\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|solutionrelative:zaloclone test\\pages\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|c:\\code\\c#\\test\\zaloclone test\\zaloclone test\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|solutionrelative:zaloclone test\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|c:\\code\\c#\\test\\zaloclone test\\zaloclone test\\pages\\aside-invitations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|solutionrelative:zaloclone test\\pages\\aside-invitations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|c:\\code\\c#\\test\\zaloclone test\\zaloclone test\\pages\\aside-groups.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|solutionrelative:zaloclone test\\pages\\aside-groups.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|c:\\code\\c#\\test\\zaloclone test\\zaloclone test\\pages\\aside-contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|solutionrelative:zaloclone test\\pages\\aside-contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|c:\\code\\c#\\test\\zaloclone test\\zaloclone test\\pages\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|solutionrelative:zaloclone test\\pages\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|c:\\code\\c#\\test\\zaloclone test\\zaloclone test\\pages\\aside.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|solutionrelative:zaloclone test\\pages\\aside.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|c:\\code\\c#\\test\\zaloclone test\\zaloclone test\\wwwroot\\js\\init\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|solutionrelative:zaloclone test\\wwwroot\\js\\init\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|c:\\code\\c#\\test\\zaloclone test\\zaloclone test\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|solutionrelative:zaloclone test\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|c:\\code\\c#\\test\\zaloclone test\\zaloclone test\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1A53D4-0F8D-4224-A7C3-B0CEBE6CA1D5}|zaloclone test\\zaloclone.csproj|solutionrelative:zaloclone test\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sidebar-search.cshtml",
+              "DocumentMoniker": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\sidebar-search.cshtml",
+              "RelativeDocumentMoniker": "zaloclone test\\Pages\\sidebar-search.cshtml",
+              "ToolTip": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\sidebar-search.cshtml",
+              "RelativeToolTip": "zaloclone test\\Pages\\sidebar-search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:47:23.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sidebar-contact.cshtml",
+              "DocumentMoniker": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\sidebar-contact.cshtml",
+              "RelativeDocumentMoniker": "zaloclone test\\Pages\\sidebar-contact.cshtml",
+              "ToolTip": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\sidebar-contact.cshtml",
+              "RelativeToolTip": "zaloclone test\\Pages\\sidebar-contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:47:20.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\register.cshtml",
+              "RelativeDocumentMoniker": "zaloclone test\\Pages\\register.cshtml",
+              "ToolTip": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\register.cshtml",
+              "RelativeToolTip": "zaloclone test\\Pages\\register.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:47:11.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "zaloclone test\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "zaloclone test\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:47:10.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sidebar.cshtml",
+              "DocumentMoniker": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\sidebar.cshtml",
+              "RelativeDocumentMoniker": "zaloclone test\\Pages\\sidebar.cshtml",
+              "ToolTip": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\sidebar.cshtml",
+              "RelativeToolTip": "zaloclone test\\Pages\\sidebar.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:45:11.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\login.cshtml",
+              "RelativeDocumentMoniker": "zaloclone test\\Pages\\login.cshtml",
+              "ToolTip": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\login.cshtml",
+              "RelativeToolTip": "zaloclone test\\Pages\\login.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:39:32.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "zaloclone test\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\Index.cshtml",
+              "RelativeToolTip": "zaloclone test\\Pages\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:35:21.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "aside-invitations.cshtml",
+              "DocumentMoniker": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\aside-invitations.cshtml",
+              "RelativeDocumentMoniker": "zaloclone test\\Pages\\aside-invitations.cshtml",
+              "ToolTip": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\aside-invitations.cshtml",
+              "RelativeToolTip": "zaloclone test\\Pages\\aside-invitations.cshtml",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAnwNwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:46:49.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "aside-groups.cshtml",
+              "DocumentMoniker": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\aside-groups.cshtml",
+              "RelativeDocumentMoniker": "zaloclone test\\Pages\\aside-groups.cshtml",
+              "ToolTip": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\aside-groups.cshtml",
+              "RelativeToolTip": "zaloclone test\\Pages\\aside-groups.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAnwDwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:46:42.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "aside-contact.cshtml",
+              "DocumentMoniker": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\aside-contact.cshtml",
+              "RelativeDocumentMoniker": "zaloclone test\\Pages\\aside-contact.cshtml",
+              "ToolTip": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\aside-contact.cshtml",
+              "RelativeToolTip": "zaloclone test\\Pages\\aside-contact.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAnwCgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:46:30.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "header.cshtml",
+              "DocumentMoniker": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\header.cshtml",
+              "RelativeDocumentMoniker": "zaloclone test\\Pages\\header.cshtml",
+              "ToolTip": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\header.cshtml",
+              "RelativeToolTip": "zaloclone test\\Pages\\header.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAHEAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:41:27.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "aside.cshtml",
+              "DocumentMoniker": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\aside.cshtml",
+              "RelativeDocumentMoniker": "zaloclone test\\Pages\\aside.cshtml",
+              "ToolTip": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\aside.cshtml",
+              "RelativeToolTip": "zaloclone test\\Pages\\aside.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAH8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:39:47.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\wwwroot\\js\\init\\index.js",
+              "RelativeDocumentMoniker": "zaloclone test\\wwwroot\\js\\init\\index.js",
+              "ToolTip": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\wwwroot\\js\\init\\index.js",
+              "RelativeToolTip": "zaloclone test\\wwwroot\\js\\init\\index.js",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAzwF0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-01T12:41:57.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "zaloclone test\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "zaloclone test\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:35:47.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "zaloclone test\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Code\\C#\\test\\zaloclone test\\zaloclone test\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "zaloclone test\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:35:29.731Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
